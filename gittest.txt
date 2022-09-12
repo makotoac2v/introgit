@@ -23,3 +23,5 @@ gitで管理しないファイルを登録
 
 git checkout ステージの内容でローカルツリーの変更を取り消す
 git reset HEAD	リポジトリの内容でステージの変更を取り消す（ローカルツリーの内容は変わらないので必要ならcheckoutする）
+
+git commit --amend	直前のcommitをやり直す（現在のステージの内容がcommitされる）
