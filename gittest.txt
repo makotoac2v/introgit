@@ -7,3 +7,9 @@ git rm
 git status
 git diff
 
+
+
+git log
+git remote add
+git push
+
