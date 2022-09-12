@@ -17,3 +17,6 @@ git mv
 
 コマンドを別名登録
 git config --global alias.”別名”　”元名”
+
+gitで管理しないファイルを登録
+.gitignore
