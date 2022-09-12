@@ -15,4 +15,5 @@ git push
 
 git mv
 
-
+コマンドを別名登録
+git config --global alias.”別名”　”元名”
